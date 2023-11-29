@@ -7,3 +7,4 @@ simple overview
     a.install react with es6/7 snippets
     b.Change productID at LoginFeed.js & App.js
     c.make sure check babels error at #npm run build
+5.here it's deployed link https://euphonious-palmier-218342.netlify.app/
